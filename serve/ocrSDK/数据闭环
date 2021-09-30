@@ -1,0 +1,12 @@
+数据闭环
+相似图检索 图搜 闻一鸣 
+
+数据源:能力引擎
+华北:afs://tianqi.afs.baidu.com:9902/app/dt/minos/203589098/70068980
+bj:afs://yinglong.afs.baidu.com:9902/app/dt/minos/203589098/70068956
+华东;afs://szth.afs.baidu.com:9902/app/dt/minos/203589098/70068840
+华南:afs://aries.afs.baidu.com:9902/app/dt/minos/203589098/70068147
+
+rpc 接口
+发送http请求
+logserver(rpc 服务) bns:sdc-logserver.Tianzhi.szth
