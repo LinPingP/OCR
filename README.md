@@ -1,6 +1,9 @@
 # ocr-front
 
-> A Vue.js project
+关于文字识别的项目，使用vue+koa2搭建，识别接口使用的是百度的接口
+serve为后台，npm start启动
+npm run dev启动前台
+项目启动前，serve/routes/index.js中更换自己的APP_ID API_KEY SECRET_KEY 
 
 ## Build Setup
 
